@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "188587104119",
+    "project_id": "test-autenticazione-firebase",
+    "storage_bucket": "test-autenticazione-firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:188587104119:android:cd6091f61a8efe167ab372",
+        "android_client_info": {
+          "package_name": "it.comania.testautenticazionefirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "188587104119-8qc7kcqs1j1l2kb1f9f7j491m8eicd6r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZvFL2XI-sKPkijmoRWDoam8VYjfITwzw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "188587104119-8qc7kcqs1j1l2kb1f9f7j491m8eicd6r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
